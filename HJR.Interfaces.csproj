@@ -8,6 +8,7 @@
     <Copyright>HJR 2020</Copyright>
     <Authors>HJR</Authors>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.2</Version>
   </PropertyGroup>
 
 </Project>
