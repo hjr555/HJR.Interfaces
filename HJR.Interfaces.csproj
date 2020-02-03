@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Company>HJR</Company>
+    <Product>Commonly used interfaces</Product>
+    <Description>Some commonly used interfaces to compliment clean architecture.</Description>
+    <Copyright>HJR 2020</Copyright>
+    <Authors>HJR</Authors>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
