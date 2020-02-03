@@ -2,8 +2,8 @@
 
 namespace HJR.Interfaces
 {
-    public class IDateTime
+    public interface IDateTime
     {
-        public DateTime UtcNow { get; }
+        DateTime UtcNow { get; }
     }
 }

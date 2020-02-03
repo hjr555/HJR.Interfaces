@@ -1,6 +1,6 @@
 ﻿namespace HJR.Interfaces
 {
-    interface ILogger
+    public interface ILogger
     {
         void Log(string text);
     }
