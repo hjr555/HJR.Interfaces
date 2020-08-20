@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>netstandard2.1</TargetFramework>
     <Company>HJR</Company>
     <Product>Commonly used interfaces</Product>
     <Description>Some commonly used interfaces to compliment clean architecture.</Description>
