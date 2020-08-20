@@ -2,7 +2,7 @@
 
 namespace HJR.Interfaces
 {
-    public interface IoEmbedService<T>
+    public interface IOEmbed<T>
     {
         public Task<T> GetAsync(int id);
     }
